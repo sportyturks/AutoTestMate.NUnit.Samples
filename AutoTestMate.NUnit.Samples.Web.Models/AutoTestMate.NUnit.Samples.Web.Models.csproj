@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>AutoTestMate.NUnit.Samples.Web.Models</AssemblyName>
+    <RootNamespace>AutoTestMate.NUnit.Samples.Web.Models</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoTestMate.NUnit.Web" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>
