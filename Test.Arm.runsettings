@@ -20,7 +20,6 @@
     <Parameter name="OutputFileDirectory" value="\TestResults\" />
     <Parameter name="OutputFileScreenshotsDirectory" value="\TestResults\ScreenshotsDirectory\" />
     <Parameter name="LoginWaitTime" value="1" />
-    <Parameter name="NavigateToBasePage" value="false" />
     <Parameter name="ForceKillProcess" value="true" />
     <Parameter name="Headless" value="false" />
     <Parameter name="BrowserType" value="firefox" />

@@ -16,7 +16,6 @@
     <Parameter name="OutputFileDirectory" value="C:\Developer\TestResults\NUnit\" />
     <Parameter name="OutputFileScreenshotsDirectory" value="C:\Developer\TestResults\NUnit\ScreenshotsDirectory\" />
     <Parameter name="LoginWaitTime" value="1" />
-    <Parameter name="NavigateToBasePage" value="false" />
     <Parameter name="ForceKillProcess" value="true" />
     <Parameter name="Headless" value="false" />
     <Parameter name="BrowserType" value="chrome" />
